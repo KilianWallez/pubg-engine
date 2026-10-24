@@ -236,3 +236,5 @@ tool completely — there is no uninstaller and no registry entry.
 ---
 
 *pubg-engine · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- rev 2026-10-24 -->
