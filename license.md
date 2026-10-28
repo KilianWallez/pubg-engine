@@ -235,4 +235,4 @@ tool completely — there is no uninstaller and no registry entry.
 
 ---
 
-*pubg-engine · Updated 2026-10-27 · Shared under the MIT License*
+*pubg-engine · Updated 2026-10-28 · Shared under the MIT License*
